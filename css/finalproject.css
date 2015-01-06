@@ -1,0 +1,42 @@
+body {
+    font-family: "Lucida Grande", sans-serif;
+    color: #666666;
+}
+h1 {
+    font-size: 48px;
+    font-weight: 300;
+    padding: 21px;
+}
+h2 {
+    color: #F07C17;
+    font-size: 23px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 0;
+   
+}
+
+img {
+    weight: 376px;
+    height: 376px;
+}
+p {
+    font-size: 17px;
+    letter-spacing: 2px;
+    word-spacing: 1px;
+    margin-top: 13px;
+}
+li {
+    font-size: 17px;
+    line-height: 180%;
+}
+ul {
+    margin-top: 35px;
+}
+
+.first {
+   margin-top: 28px;
+   padding-top: 32px;
+    border: 1px solid #CCCCCC;
+}
+
